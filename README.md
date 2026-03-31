@@ -1,4 +1,5 @@
-# Instalación de Rancher sobre K3s (Single Node)
+## <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/11c8d7ca-307b-43ea-b1b0-bc68f9e17df3" /> Instalación de Rancher sobre K3s (Single Node)
+
 ## Certificado TLS propio + agent-tls-mode = system-store
 
 Este documento describe paso a paso la instalación de Rancher sobre K3s en un solo nodo,
